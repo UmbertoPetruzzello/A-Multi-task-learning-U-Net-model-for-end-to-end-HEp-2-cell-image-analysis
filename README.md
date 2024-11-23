@@ -26,8 +26,7 @@ These tasks are essential for building comprehensive systems for automated HEp-2
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hep2-unet.git
-   cd hep2-unet
+   git clone https://github.com/UmbertoPetruzzello/A-Multi-task-learning-U-Net-model-for-end-to-end-HEp-2-cell-image-analysis.git
    ```
 
 2. Prepare your dataset:
